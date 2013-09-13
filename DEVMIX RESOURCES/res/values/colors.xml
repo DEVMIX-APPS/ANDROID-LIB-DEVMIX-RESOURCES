@@ -5,9 +5,11 @@
      <color name="Verde30">#CC54DA45</color>
      <color name="VerdeOpaco30">#CC268A1C</color>
 	 <color name="White">#FFFFFF</color>
+	 <color name="White70">#DDFFFFFF</color>
 	 <color name="TransparentBlack30">#30000000</color>
 	 <color name="TransparentBlack70">#DD000000</color>
 	 <color name="Gray">#CCCCCC</color>
+	 <color name="Gray70">#DDCCCCCC</color>
 	 <color name="Ivory">#FFFFF0</color>
 	 <color name="LightYellow">#FFFFE0</color>
 	 <color name="Yellow">#FFFF00</color>
