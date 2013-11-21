@@ -9,81 +9,81 @@ import com.googlecode.androidannotations.annotations.res.AnimationRes;
 public class AnimationsUtils {
 
 	@AnimationRes
-	Animation appear;
+	public Animation appear;
 	
 	@AnimationRes
-	Animation fadeIn;
+	public Animation fadeIn;
 	
 	@AnimationRes
-	Animation fadeOut;
+	public Animation fadeOut;
 	
 	@AnimationRes
-	Animation growFromBottom;
+	public Animation growFromBottom;
 	
 	@AnimationRes
-	Animation growFromBottomLeftToTopRight;
+	public Animation growFromBottomLeftToTopRight;
 	
 	@AnimationRes
-	Animation growFromBottomRightToTopLeft;
+	public Animation growFromBottomRightToTopLeft;
 	
 	@AnimationRes
-	Animation growFromTop;
+	public Animation growFromTop;
 	
 	@AnimationRes
-	Animation growFromTopLeftToBottomRight;
+	public Animation growFromTopLeftToBottomRight;
 	 
 	@AnimationRes
-	Animation growFromTopRightToBottomLeft;
+	public Animation growFromTopRightToBottomLeft;
 	
 	@AnimationRes
-	Animation pulse;
+	public Animation pulse;
 	
 	@AnimationRes
-	Animation pushDownIn;
+	public Animation pushDownIn;
 	
 	@AnimationRes
-	Animation pushDownOut;
+	public Animation pushDownOut;
 	
 	@AnimationRes
-	Animation pushLeftIn;
+	public Animation pushLeftIn;
 	
 	@AnimationRes
-	Animation pushLeftOut;
+	public Animation pushLeftOut;
 	
 	@AnimationRes
-	Animation pushRightIn;
+	public Animation pushRightIn;
 	
 	@AnimationRes
-	Animation pushRightOut;
+	public Animation pushRightOut;
 	
 	@AnimationRes 
-	Animation pushUpIn;
+	public Animation pushUpIn;
 	
 	@AnimationRes
-	Animation pushUpOut;
+	public Animation pushUpOut;
 	
 	@AnimationRes
-	Animation rail;
+	public Animation rail;
 	
 	@AnimationRes
-	Animation rotation;
+	public Animation rotation;
 	
 	@AnimationRes
-	Animation shrinkFromBottom;
+	public Animation shrinkFromBottom;
 	
 	@AnimationRes
-	Animation shrinkFromBottomRightToTopLeft;
+	public Animation shrinkFromBottomRightToTopLeft;
 	
 	@AnimationRes
-	Animation shrinkFromBottomLeftToTopRight;
+	public Animation shrinkFromBottomLeftToTopRight;
 	
 	@AnimationRes
-	Animation shrinkFromTopLeftToBottomRight;
+	public Animation shrinkFromTopLeftToBottomRight;
 	
 	@AnimationRes
-	Animation shrinkFromTopRightToBottomLeft;
+	public Animation shrinkFromTopRightToBottomLeft;
 	
 	@AnimationRes
-	Animation ShrinkFromTop;
+	public Animation ShrinkFromTop;
 	
 }
