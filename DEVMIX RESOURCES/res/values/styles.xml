@@ -51,13 +51,13 @@
     <style name="Animations.PopDownMenu" />
 
     <style name="Animations.PopDownMenu.Left">
-        <item name="@android:windowEnterAnimation">@anim/grow_from_topleft_to_bottomright</item>
-        <item name="@android:windowExitAnimation">@anim/shrink_from_bottomright_to_topleft</item>
+        <item name="@android:windowEnterAnimation">@anim/grow_from_top_left_to_bottom_right</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_bottom_right_to_top_left</item>
     </style>
 
     <style name="Animations.PopDownMenu.Right">
-        <item name="@android:windowEnterAnimation">@anim/grow_from_topright_to_bottomleft</item>
-        <item name="@android:windowExitAnimation">@anim/shrink_from_bottomleft_to_topright</item>
+        <item name="@android:windowEnterAnimation">@anim/grow_from_top_right_to_bottom_left</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_bottom_left_to_top_right</item>
     </style>
 
     <style name="Animations.PopDownMenu.Center">
@@ -69,13 +69,13 @@
     <style name="Animations.PopUpMenu" />
 
     <style name="Animations.PopUpMenu.Left">
-        <item name="@android:windowEnterAnimation">@anim/grow_from_bottomleft_to_topright</item>
-        <item name="@android:windowExitAnimation">@anim/shrink_from_topright_to_bottomleft</item>
+        <item name="@android:windowEnterAnimation">@anim/grow_from_bottom_left_to_top_right</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_top_right_to_bottom_left</item>
     </style>
 
     <style name="Animations.PopUpMenu.Right">
-        <item name="@android:windowEnterAnimation">@anim/grow_from_bottomright_to_topleft</item>
-        <item name="@android:windowExitAnimation">@anim/shrink_from_topleft_to_bottomright</item>
+        <item name="@android:windowEnterAnimation">@anim/grow_from_bottom_right_to_top_left</item>
+        <item name="@android:windowExitAnimation">@anim/shrink_from_top_left_to_bottom_right</item>
     </style>
 
     <style name="Animations.PopUpMenu.Center">
